@@ -25,9 +25,10 @@ This role can focus on either the compiler or systems side, depending on the app
 
 ## Technicall Skills
 
-- Proficiency in Rust - or proficiency in another systems language and willingness to learn/write Rust.
+- Proficiency in Rust - or in another systems language and willingness to learn/write Rust.
 - Familiarity with compiler internals, programming language design.
 - Experience with VMs (LLVM, WASM, RISCV), architectures, and toolchains.
+- **Bonus**: open-source experience.
 - **Bonus**: you check multiple boxes above.
 
 ## Soft Skills

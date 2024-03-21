@@ -27,6 +27,7 @@ In this role, the tasks may include but are not limited to:
 
 - Familiarity with ZK circuits or proof systems.
 - Proficiency in Rust - or proficiency in another systems language and willingness to learn/write Rust.
+- **Bonus**: open-source experience.
 - **Bonus**: familiarity with VMs/zkVMs, programming languages, arithmetizations, arguments, proof recursion.
 
 ## Soft Skills
